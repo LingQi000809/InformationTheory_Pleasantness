@@ -1,0 +1,3 @@
+load("/Users/ling/Desktop/humdrumR/information_theory/swapchord_results/AaronNeville_TellItLikeItIs_1966_swapped.rds")
+load("/Users/ling/Desktop/humdrumR/information_theory/swapchord_results/BoDiddley_YouCantJudgeABookByTheCover_1962_swapped.rds")
+load("/Users/ling/Desktop/humdrumR/information_theory/swapchord_results/ArethaFranklin_ChainOfFools_1967_swapped.rds")
